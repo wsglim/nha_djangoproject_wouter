@@ -1,0 +1,46 @@
+body
+{
+    background-color: darkred;
+    color: black;
+}
+
+header 
+{
+    background-color: orange;
+    padding: 50px 50px 50px 50px;
+}
+
+footer 
+{
+    background-color: orange;
+    padding: 50px 50px 50px 50px;
+
+}
+
+article
+{
+    background-color: pink;
+}
+
+.post
+{
+    border-color: white;
+}
+
+h1
+{
+    color: black;
+}
+
+a 
+{
+    color: orange;
+}
+
+article
+{
+    width: 500px;
+    margin-bottom: 40px;
+    border: 3px solid red;
+    text-align: left;
+}
