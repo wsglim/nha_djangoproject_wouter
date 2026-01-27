@@ -17,15 +17,6 @@ footer
 
 }
 
-article
-{
-    background-color: pink;
-}
-
-.post
-{
-    border-color: white;
-}
 
 h1
 {
@@ -39,8 +30,10 @@ a
 
 article
 {
+    background-color: pink;
     width: 500px;
     margin-bottom: 40px;
-    border: 3px solid red;
+    border: 3px solid white;
     text-align: left;
 }
+
